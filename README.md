@@ -50,4 +50,8 @@ Input: `ran 5k and cycled for 20 minutes`
 }
 ```
 
+<p align="center"> 
+  <img src="https://github.com/SourasishBasu/WorkoutTracker/blob/1c94b084e8d06be6fbae9870f50c571ef0841f7b/assets/sheets.png"/>
+   <br><b>Workout Spreadsheet on Google Sheets</b>
+</p>
 
